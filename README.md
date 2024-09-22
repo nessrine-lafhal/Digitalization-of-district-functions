@@ -63,3 +63,9 @@ Citizens can log in to submit their requests for signature legalization and cert
 
 ### Conclusion
 This project successfully addresses the challenges associated with the current manual process for legalizing signatures and certified copies in Morocco. By leveraging digital tools and technologies, the system streamlines operations, reduces processing time, and improves the overall experience for citizens and officials alike.
+
+
+### Rapport
+
+[Download the Report](path/to/your/report.pdf)
+
